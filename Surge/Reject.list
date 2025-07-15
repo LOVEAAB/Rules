@@ -1,5 +1,55 @@
 # Advertising
 # > General
+DOMAIN-SUFFIX,c1.rrcdnbf4.com
+DOMAIN-SUFFIX,net-vg-cdn.mtgglobals.com
+DOMAIN-SUFFIX,analytics.adjust.com
+DOMAIN-SUFFIX,cdn.iads.unity3d.com
+DOMAIN-SUFFIX,vg-aws-cdn-us-east-1a-hb-bid-feedback.mtgglobals.com
+DOMAIN-SUFFIX,o-iab-notifications.mediation.unity3d.com
+DOMAIN-SUFFIX,ae.iads.unity3d.com
+DOMAIN-SUFFIX,ep7.facebook.com
+DOMAIN,o-sdk.mediation.unity3d.com
+DOMAIN,cached-ad-b.fyber.com
+DOMAIN,o-adq.mediation.unity3d.com
+DOMAIN,vg-aws-ad-track-sdk-us-east-1b.mtgglobals.com
+DOMAIN-SUFFIX,analytics.adjust.net.in
+DOMAIN-SUFFIX,br-trk.smadex.com
+DOMAIN-SUFFIX,cdn.jampp.com
+DOMAIN-SUFFIX,exchange-b-events.inner-active.mobi
+DOMAIN-SUFFIX,ssp.api.tappx.com
+DOMAIN-SUFFIX,ow.pubmatic.com
+DOMAIN-SUFFIX,sdk-dnt.ad.smaato.net
+DOMAIN-SUFFIX,creatives.smadex.com
+DOMAIN,bw-trk.smadex.com
+DOMAIN,app-analytics-services.com
+DOMAIN,static-content-1.smadex.com
+DOMAIN,ets-us-east-1.track.smaato.net
+DOMAIN,view.adjust.com
+DOMAIN,c.amazon-adsystem.com
+DOMAIN,a4.adserv-us.com
+DOMAIN,ads.pubmatic.com
+DOMAIN,ads.inmobi.com
+DOMAIN,vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
+DOMAIN,vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
+DOMAIN,bm-ads.io
+DOMAIN,bj-ali-ad-track-sdk.mintegral.net
+DOMAIN-SUFFIX,qm-data.wtzw.com
+DOMAIN,xiaoshuo.wtzw.com
+DOMAIN,api-bs.wtzw.com
+DOMAIN,tnc3-bjlgy.zijieapi.com
+DOMAIN-SUFFIX,qm-ab.wtzw.com
+DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
+DOMAIN-SUFFIX,update.wtzw.com
+DOMAIN-SUFFIX,qm-sf.wtzw.com
+DOMAIN-SUFFIX,api-sc.wtzw.com
+DOMAIN-SUFFIX,api-cfg.wtzw.com
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
+DOMAIN-SUFFIX,image.uczzd.cn
+DOMAIN-SUFFIX,api.sm.cn
+DOMAIN-SUFFIX,mmbizwxadpobcos-release-1258344707.cos.ap-shanghai.myqcloud.com
+DOMAIN,drs-ipv6.wtzw.com
+DOMAIN-SUFFIX,huichuan.sm.cn
+DOMAIN-KEYWORD,mokexweb
 DOMAIN-KEYWORD,adservice
 
 # (A)------
