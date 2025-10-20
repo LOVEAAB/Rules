@@ -97,6 +97,7 @@ DOMAIN,ut2.shuqistat.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN-SUFFIX,bestadprof.com
 # --- (Baidu) ---
+DOMAIN,hm.baidu.com
 DOMAIN-SUFFIX,crab.baidu.com
 DOMAIN-SUFFIX,feed-image.baidu.com
 DOMAIN-SUFFIX,caid.baidu.com
@@ -269,6 +270,20 @@ DOMAIN,ad.api.moji.com
 DOMAIN,adlaunch.moji.com
 DOMAIN,ads.mojicdn.com
 DOMAIN,v1.log.moji.com
+# > Migu
+DOMAIN-SUFFIX,log-report.rtc.volcvideo.com
+DOMAIN-SUFFIX,p66-ad.adkwai.com
+DOMAIN-SUFFIX,mssdk.volces.com
+DOMAIN-SUFFIX,ios.bugly.qq.com
+DOMAIN-SUFFIX,hound.migu.cn
+DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,clog.miguvideo.com
+DOMAIN-SUFFIX,ggv.miguvideo.com 
+DOMAIN-SUFFIX,adashbc.ut.taobao.com
+DOMAIN-SUFFIX,ggc.miguvideo.com 
+DOMAIN-SUFFIX,uem.migu.cn
+DOMAIN-SUFFIX,ggic10.miguvideo.com
 
 # (N)
 # > NetEase
@@ -497,3 +512,19 @@ DOMAIN,ad.51wnl-cq.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,r.51wnl-cq.com
+
+# (Other)
+# >
+DOMAIN,ttd4m7-launches.appsflyersdk.com 
+DOMAIN,gcp-bidders-us-east4.dataseat.com
+DOMAIN,vg-ali-ad-track-sdk.mtgglobals.com
+DOMAIN-SUFFIX,impression.appsflyer.com
+DOMAIN-SUFFIX,v56-mobile-live-config.pool.miniclippt.com
+DOMAIN,content.inhousedsp.com
+DOMAIN-SUFFIX,config.monetization-sdk.chartboost.com
+DOMAIN,prod-mediate-events.applovin.com
+DOMAIN,rt.applovin.com
+DOMAIN,e.axon.ai
+DOMAIN,logs.ads.vungle.com
+
+
