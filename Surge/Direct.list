@@ -1,24 +1,30 @@
 DOMAIN-SUFFIX,c1.rrcdnbf4.com
 DOMAIN-SUFFIX,99meiju.cn
-DOMAIN-SUFFIX,netflixgc.com
-DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,wmdang.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,95516.com
+# > CMB
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,122.gov.cn
+
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,investassistant.com
 DOMAIN-SUFFIX,financialdatamining.com
 DOMAIN-SUFFIX,stat.tpns.tencent.com
+# > Wechat
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,servicewechat.com
+# > CCP
+DOMAIN-SUFFIX,122.gov.cn
 DOMAIN-SUFFIX,www.gov.cn
+# > NetflixGC
+DOMAIN-SUFFIX,netflixgc.com
 DOMAIN-SUFFIX,netflixgc.tv
 DOMAIN-SUFFIX,dytt-movies.com
+# > BocHK
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,etnet.com.hk
+# > HSBC
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,eum-appdynamics.com
 DOMAIN-SUFFIX,online-metrix.net
@@ -27,6 +33,11 @@ DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,we-stats.com
 DOMAIN,rt.applovin.com
+# > Migu
 DOMAIN,v2-sc.miguvideo.com
+# > aliyun
+DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN,imaphk.qiye.aliyun.com
 DOMAIN,smtphk.qiye.aliyun.com
+# > Futu
+IP-CIDR,43.153.233.212/32,no-resolve
