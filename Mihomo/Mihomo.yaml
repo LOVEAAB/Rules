@@ -165,6 +165,7 @@ rules:
   - RULE-SET,apple,🟢 直连
   - RULE-SET,google,节点选择
   - RULE-SET,proxy,节点选择
+  - RULE-SET,proxy2,节点选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,private,🟢 直连
   - RULE-SET,gfw,节点选择
