@@ -208,7 +208,7 @@ rule-providers:
     path: ./ruleset/proxy.yaml
     interval: 86400
    
-  proxy:
+  proxy2:
     type: http
     behavior: domain
     url: "https://github.com/LOVEAAB/Rules/raw/refs/heads/main/Mihomo/Proxy.txt"
