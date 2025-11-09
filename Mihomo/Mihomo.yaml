@@ -211,7 +211,7 @@ rule-providers:
   proxy2:
     type: http
     behavior: domain
-    url: "https://github.com/LOVEAAB/Rules/raw/refs/heads/main/Mihomo/Proxy2.txt"
+    url: "https://github.com/LOVEAAB/Rules/raw/refs/heads/main/Mihomo/Proxy.txt"
     path: ./ruleset/proxy2.yaml
     interval: 86400
 
