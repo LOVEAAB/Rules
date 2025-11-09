@@ -207,6 +207,12 @@ rule-providers:
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
     path: ./ruleset/proxy.yaml
     interval: 86400
+ proxy2:
+    type: http
+    behavior: domain
+    url: "https://github.com/LOVEAAB/Rules/raw/refs/heads/main/Mihomo/Proxy2.txt"
+    path: ./ruleset/proxy2.yaml
+    interval: 86400
 
   direct:
     type: http
