@@ -1,2 +1,2 @@
 payload:
- - '+.supportxmr.com'
+ - '+.pool.supportxmr.com'
