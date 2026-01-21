@@ -116,7 +116,7 @@ dns:
  
    
 proxies:
-- name: "🟢 直连"
+- name: "DIRECT"
   type: direct
   udp: true  
 
@@ -161,11 +161,11 @@ proxy-groups:
 # 策略组
 rules:
   - RULE-SET,Reject,REJECT
-  - RULE-SET,icloud,🟢 直连
-  - RULE-SET,apple,🟢 直连
+  - RULE-SET,icloud,DIRECT
+  - RULE-SET,apple,DIRECT
   - RULE-SET,proxy,节点选择
   - RULE-SET,direct,DIRECT
-  - RULE-SET,private,🟢 直连
+  - RULE-SET,private,DIRECT
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,节点选择
