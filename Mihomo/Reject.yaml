@@ -127,14 +127,14 @@ payload:
 # > iQIYI
   - DOMAIN,t7z.cupid.iqiyi.com
   - DOMAIN,t7z.cupid.ptqy.gitv.tv
-- IP-CIDR,101.227.97.240/32,no-resolve
-- IP-CIDR,101.227.200.11/32,no-resolve
-- IP-CIDR,101.227.200.28/32,no-resolve
-- IP-CIDR,124.192.153.42/32,no-resolve
+  - IP-CIDR,101.227.97.240/32,no-resolve
+  - IP-CIDR,101.227.200.11/32,no-resolve
+  - IP-CIDR,101.227.200.28/32,no-resolve
+  - IP-CIDR,124.192.153.42/32,no-resolve
 # ------
 # --(ByteDance)
 # bilibili
-- IP-CIDR,203.107.1.65/32,no-resolve
+  - IP-CIDR,203.107.1.65/32,no-resolve
 #   > Toutiao
   - DOMAIN,dm-lq.toutiao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
@@ -185,7 +185,7 @@ payload:
 # (D)
   - DOMAIN,webcast-open.douyin.com
 # > Douban
-- AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
+  - AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
 
 # (F)-------
   - DOMAIN,fp-it.fengkongcloud.com
@@ -496,13 +496,13 @@ payload:
 
 # (Z)
 # > Zhihu
-- USER-AGENT,AVOS*
+  - USER-AGENT,AVOS*
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
   - DOMAIN,118.89.204.198
-- IP-CIDR,118.89.204.198/32,no-resolve
-- IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+  - IP-CIDR,118.89.204.198/32,no-resolve
+  - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 # > ZOL
   - DOMAIN,apppv.zol.com.cn
   - DOMAIN,pvnapp.zol.com.cn
@@ -513,7 +513,7 @@ payload:
   - DOMAIN,adextra.51wnl-cq.com
   - DOMAIN,log.51wnl-cq.com
   - DOMAIN,r.51wnl-cq.com
-- 
+
 # (Other)
 # >
   - DOMAIN,sdc3.10086.cn
