@@ -160,25 +160,22 @@ proxy-groups:
 
 # 策略组
 rules:
-  - RULE-SET,reject,REJECT
+  - RULE-SET,Reject,REJECT
   - RULE-SET,icloud,🟢 直连
   - RULE-SET,apple,🟢 直连
-  - RULE-SET,google,节点选择
   - RULE-SET,proxy,节点选择
-  - RULE-SET,proxy2,节点选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,private,🟢 直连
-  - RULE-SET,gfw,节点选择
   - GEOIP,LAN,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,节点选择
 
 rule-providers: 
-  reject:
+  Reject:
     type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
-    path: ./ruleset/reject.yaml
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LOVEAAB/Rules/refs/heads/main/Mihomo/Reject.yaml"
+    path: ./ruleset/Reject.yaml
     interval: 86400
 
   icloud:
@@ -195,31 +192,17 @@ rule-providers:
     path: ./ruleset/apple.yaml
     interval: 86400
 
-  google:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
-    path: ./ruleset/google.yaml
-    interval: 86400
-
   proxy:
     type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LOVEAAB/Rules/refs/heads/main/Mihomo/Proxy.yaml"
     path: ./ruleset/proxy.yaml
-    interval: 86400
-   
-  proxy2:
-    type: http
-    behavior: domain
-    url: "https://github.com/LOVEAAB/Rules/raw/refs/heads/main/Mihomo/Proxy.txt"
-    path: ./ruleset/proxy2.yaml
     interval: 86400
 
   direct:
     type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
+    behavior: classical
+    url: "https://raw.githubusercontent.com/LOVEAAB/Rules/refs/heads/main/Mihomo/Direct.yaml"
     path: ./ruleset/direct.yaml
     interval: 86400
 
@@ -228,11 +211,4 @@ rule-providers:
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
     path: ./ruleset/private.yaml
-    interval: 86400
-
-  gfw:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
-    path: ./ruleset/gfw.yaml
     interval: 86400
