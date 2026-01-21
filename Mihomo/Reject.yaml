@@ -1,83 +1,83 @@
 payload:
 # Advertising
 # > General
-  - DOMAIN  -SUFFIX,net  -vg  -cdn.mtgglobals.com
-  - DOMAIN  -SUFFIX,analytics.adjust.com
-  - DOMAIN  -SUFFIX,cdn.iads.unity3d.com
-  - DOMAIN  -SUFFIX,vg  -aws  -cdn  -us  -east  -1a  -hb  -bid  -feedback.mtgglobals.com
-  - DOMAIN  -SUFFIX,o  -iab  -notifications.mediation.unity3d.com
-  - DOMAIN  -SUFFIX,ae.iads.unity3d.com
-  - DOMAIN  -SUFFIX,ep7.facebook.com
-  - DOMAIN,o  -sdk.mediation.unity3d.com
-  - DOMAIN,cached  -ad  -b.fyber.com
-  - DOMAIN,o  -adq.mediation.unity3d.com
-  - DOMAIN,vg  -aws  -ad  -track  -sdk  -us  -east  -1b.mtgglobals.com
-  - DOMAIN  -SUFFIX,analytics.adjust.net.in
-  - DOMAIN  -SUFFIX,br  -trk.smadex.com
-  - DOMAIN  -SUFFIX,cdn.jampp.com
-  - DOMAIN  -SUFFIX,exchange  -b  -events.inner  -active.mobi
-  - DOMAIN  -SUFFIX,ssp.api.tappx.com
-  - DOMAIN  -SUFFIX,ow.pubmatic.com
-  - DOMAIN  -SUFFIX,sdk  -dnt.ad.smaato.net
-  - DOMAIN  -SUFFIX,creatives.smadex.com
-  - DOMAIN,bw  -trk.smadex.com
-  - DOMAIN,app  -analytics  -services.com
-  - DOMAIN,static  -content  -1.smadex.com
-  - DOMAIN,ets  -us  -east  -1.track.smaato.net
+  - DOMAIN-SUFFIX,net-vg-cdn.mtgglobals.com
+  - DOMAIN-SUFFIX,analytics.adjust.com
+  - DOMAIN-SUFFIX,cdn.iads.unity3d.com
+  - DOMAIN-SUFFIX,vg-aws-cdn-us-east-1a-hb-bid-feedback.mtgglobals.com
+  - DOMAIN-SUFFIX,o-iab-notifications.mediation.unity3d.com
+  - DOMAIN-SUFFIX,ae.iads.unity3d.com
+  - DOMAIN-SUFFIX,ep7.facebook.com
+  - DOMAIN,o-sdk.mediation.unity3d.com
+  - DOMAIN,cached-ad-b.fyber.com
+  - DOMAIN,o-adq.mediation.unity3d.com
+  - DOMAIN,vg-aws-ad-track-sdk-us-east-1b.mtgglobals.com
+  - DOMAIN-SUFFIX,analytics.adjust.net.in
+  - DOMAIN-SUFFIX,br-trk.smadex.com
+  - DOMAIN-SUFFIX,cdn.jampp.com
+  - DOMAIN-SUFFIX,exchange-b-events.inner-active.mobi
+  - DOMAIN-SUFFIX,ssp.api.tappx.com
+  - DOMAIN-SUFFIX,ow.pubmatic.com
+  - DOMAIN-SUFFIX,sdk-dnt.ad.smaato.net
+  - DOMAIN-SUFFIX,creatives.smadex.com
+  - DOMAIN,bw-trk.smadex.com
+  - DOMAIN,app-analytics-services.com
+  - DOMAIN,static-content-1.smadex.com
+  - DOMAIN,ets-us-east-1.track.smaato.net
   - DOMAIN,view.adjust.com
-  - DOMAIN,c.amazon  -adsystem.com
-  - DOMAIN,a4.adserv  -us.com
+  - DOMAIN,c.amazon-adsystem.com
+  - DOMAIN,a4.adserv-us.com
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,ads.inmobi.com
-  - DOMAIN,vg  -aws  -ad  -track  -sdk  -us  -east  -1a.mtgglobals.com
-  - DOMAIN,vg  -aws  -ad  -track  -sdk  -us  -east  -1a.mtgglobals.com
-  - DOMAIN,bm  -ads.io
-  - DOMAIN,bj  -ali  -ad  -track  -sdk.mintegral.net
-  - DOMAIN  -SUFFIX,qm  -data.wtzw.com
+  - DOMAIN,vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
+  - DOMAIN,vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
+  - DOMAIN,bm-ads.io
+  - DOMAIN,bj-ali-ad-track-sdk.mintegral.net
+  - DOMAIN-SUFFIX,qm-data.wtzw.com
   - DOMAIN,xiaoshuo.wtzw.com
-  - DOMAIN,api  -bs.wtzw.com
-  - DOMAIN,tnc3  -bjlgy.zijieapi.com
-  - DOMAIN  -SUFFIX,qm  -ab.wtzw.com
-  - DOMAIN  -SUFFIX,tnc3  -aliec2.zijieapi.com
-  - DOMAIN  -SUFFIX,update.wtzw.com
-  - DOMAIN  -SUFFIX,qm  -sf.wtzw.com
-  - DOMAIN  -SUFFIX,api  -sc.wtzw.com
-  - DOMAIN  -SUFFIX,api  -cfg.wtzw.com
-  - DOMAIN  -SUFFIX,tnc3  -alisc1.zijieapi.com
-  - DOMAIN  -SUFFIX,image.uczzd.cn
-  - DOMAIN  -SUFFIX,api.sm.cn
-  - DOMAIN  -SUFFIX,mmbizwxadpobcos  -release  -1258344707.cos.ap  -shanghai.myqcloud.com
-  - DOMAIN,drs  -ipv6.wtzw.com
-  - DOMAIN  -SUFFIX,huichuan.sm.cn
-  - DOMAIN  -KEYWORD,mokexweb
-  - DOMAIN  -KEYWORD,adservice
+  - DOMAIN,api-bs.wtzw.com
+  - DOMAIN,tnc3-bjlgy.zijieapi.com
+  - DOMAIN-SUFFIX,qm-ab.wtzw.com
+  - DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
+  - DOMAIN-SUFFIX,update.wtzw.com
+  - DOMAIN-SUFFIX,qm-sf.wtzw.com
+  - DOMAIN-SUFFIX,api-sc.wtzw.com
+  - DOMAIN-SUFFIX,api-cfg.wtzw.com
+  - DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
+  - DOMAIN-SUFFIX,image.uczzd.cn
+  - DOMAIN-SUFFIX,api.sm.cn
+  - DOMAIN-SUFFIX,mmbizwxadpobcos-release-1258344707.cos.ap-shanghai.myqcloud.com
+  - DOMAIN,drs-ipv6.wtzw.com
+  - DOMAIN-SUFFIX,huichuan.sm.cn
+  - DOMAIN-KEYWORD,mokexweb
+  - DOMAIN-KEYWORD,adservice
 
-# (A)  -  -  -  -  -  -
-  - DOMAIN,aax  -us  -east.amazon  -adsystem.com
+# (A)------
+  - DOMAIN,aax-us-east.amazon-adsystem.com
 # > Apple
-  - DOMAIN  -SUFFIX,iadsdk.apple.com
-  - DOMAIN  -SUFFIX,ads.internal.unity3d.com
-  - DOMAIN  -SUFFIX,ads.prd.ie.internal.unity3d.com
-  - DOMAIN  -SUFFIX,unityads.unity3d.com
-#  -  -  -  -  -屏蔽ios更新
+  - DOMAIN-SUFFIX,iadsdk.apple.com
+  - DOMAIN-SUFFIX,ads.internal.unity3d.com
+  - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
+  - DOMAIN-SUFFIX,unityads.unity3d.com
+#-----屏蔽ios更新
   - DOMAIN,mesu.g.aaplimg.com
-  - DOMAIN,mesu  -cdn.apple.com
-  - DOMAIN,mesu  -cdn.origin  -apple.com
+  - DOMAIN,mesu-cdn.apple.com
+  - DOMAIN,mesu-cdn.origin-apple.com
   - DOMAIN,xp.apple.com
-  - DOMAIN,updates  -http.cdn  -apple.com
+  - DOMAIN,updates-http.cdn-apple.com
   - DOMAIN,mesu.apple.com
   - DOMAIN,gdmf.apple.com
-#   -  -  - (Alibaba)   -  -  -
-  - DOMAIN,tunion  -api.m.taobao.com
+# --- (Alibaba) ---
+  - DOMAIN,tunion-api.m.taobao.com
 # > YOUKU
-  - DOMAIN  -SUFFIX,atm.youku.com
+  - DOMAIN-SUFFIX,atm.youku.com
   - DOMAIN,ad.mobile.youku.com
   - DOMAIN,iyes.youku.com
   - DOMAIN,pl.cp31.ott.cibntv.net
 # > AMap
-  - DOMAIN,optimus  -ads.amap.com
-  - DOMAIN,optimus  -ads.amap.com.w.alikunlun.com
-#   -  -  -  -  -  -
+  - DOMAIN,optimus-ads.amap.com
+  - DOMAIN,optimus-ads.amap.com.w.alikunlun.com
+# ------
 # > Autohome
   - DOMAIN,adproxy.autohome.com.cn
   - DOMAIN,rd.autohome.com.cn
@@ -91,33 +91,33 @@ payload:
   - DOMAIN,atoken.m.taobao.com
   - DOMAIN,adashx.m.taobao.com
   - DOMAIN,feedback.uc.cn
-  - DOMAIN,h  -adashx.ut.taobao.com
+  - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,ut2.shuqistat.com
 
 # (B)
-  - DOMAIN,mobads  -pre  -config.cdn.bcebos.com
-  - DOMAIN  -SUFFIX,bestadprof.com
-#   -  -  - (Baidu)   -  -  -
+  - DOMAIN,mobads-pre-config.cdn.bcebos.com
+  - DOMAIN-SUFFIX,bestadprof.com
+# --- (Baidu) ---
   - DOMAIN,hm.baidu.com
-  - DOMAIN  -SUFFIX,crab.baidu.com
-  - DOMAIN  -SUFFIX,feed  -image.baidu.com
-  - DOMAIN  -SUFFIX,caid.baidu.com
-  - DOMAIN  -SUFFIX,dm.bytedance.com
-  - DOMAIN  -SUFFIX,browserkernel.baidu.com
-  - DOMAIN  -SUFFIX,aod  -image.baidu.com
-  - DOMAIN  -SUFFIX,feed.baidu.com
-  - DOMAIN  -SUFFIX,pic.rmb.bdstatic.com
-  - DOMAIN  -SUFFIX,hectorstatic.baidu.com
-  - DOMAIN  -SUFFIX,duapps.com
-  - DOMAIN  -SUFFIX,cpro.baidu.com
-  - DOMAIN  -SUFFIX,pos.baidu.com
-  - DOMAIN  -SUFFIX,mlog.bigda.com
-  - DOMAIN  -SUFFIX,tb  -video.bdstatic.com
+  - DOMAIN-SUFFIX,crab.baidu.com
+  - DOMAIN-SUFFIX,feed-image.baidu.com
+  - DOMAIN-SUFFIX,caid.baidu.com
+  - DOMAIN-SUFFIX,dm.bytedance.com
+  - DOMAIN-SUFFIX,browserkernel.baidu.com
+  - DOMAIN-SUFFIX,aod-image.baidu.com
+  - DOMAIN-SUFFIX,feed.baidu.com
+  - DOMAIN-SUFFIX,pic.rmb.bdstatic.com
+  - DOMAIN-SUFFIX,hectorstatic.baidu.com
+  - DOMAIN-SUFFIX,duapps.com
+  - DOMAIN-SUFFIX,cpro.baidu.com
+  - DOMAIN-SUFFIX,pos.baidu.com
+  - DOMAIN-SUFFIX,mlog.bigda.com
+  - DOMAIN-SUFFIX,tb-video.bdstatic.com
   - DOMAIN,afd.baidu.com
   - DOMAIN,als.baidu.com
   - DOMAIN,duclick.baidu.com
   - DOMAIN,mobads.baidu.com
-  - DOMAIN,mobads  -logs.baidu.com
+  - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,nadvideo2.baidu.com
   - DOMAIN,nsclick.baidu.com
   - DOMAIN,mbs1.bdstatic.com
@@ -127,21 +127,21 @@ payload:
 # > iQIYI
   - DOMAIN,t7z.cupid.iqiyi.com
   - DOMAIN,t7z.cupid.ptqy.gitv.tv
-  - IP  -CIDR,101.227.97.240/32,no  -resolve
-  - IP  -CIDR,101.227.200.11/32,no  -resolve
-  - IP  -CIDR,101.227.200.28/32,no  -resolve
-  - IP  -CIDR,124.192.153.42/32,no  -resolve
-#   -  -  -  -  -  -
-#   -  -(ByteDance)
+- IP-CIDR,101.227.97.240/32,no-resolve
+- IP-CIDR,101.227.200.11/32,no-resolve
+- IP-CIDR,101.227.200.28/32,no-resolve
+- IP-CIDR,124.192.153.42/32,no-resolve
+# ------
+# --(ByteDance)
 # bilibili
-  - IP  -CIDR,203.107.1.65/32,no  -resolve
+- IP-CIDR,203.107.1.65/32,no-resolve
 #   > Toutiao
-  - DOMAIN,dm  -lq.toutiao.com
-  - DOMAIN  -SUFFIX,pangolin  -sdk  -toutiao  -b.com
-  - DOMAIN,dm  -hl.toutiao.com
-  - DOMAIN  -SUFFIX,pglstatp  -toutiao.com
+  - DOMAIN,dm-lq.toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN,dm-hl.toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN,dm.toutiao.com
-  - DOMAIN  -SUFFIX,pangolin  -sdk  -toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN,ad.toutiao.com
   - DOMAIN,pangolin.snssdk.com
 # > baicizhan
@@ -151,19 +151,19 @@ payload:
   - DOMAIN,adx.yiche.com
   - DOMAIN,log.ycapp.yiche.com
 # > Braze
-  - DOMAIN  -SUFFIX,iad.appboy.com
-  - DOMAIN  -SUFFIX,iad  -03.appboy.com
-  - DOMAIN  -SUFFIX,iad  -01.braze.com
-  - DOMAIN  -SUFFIX,iad  -02.braze.com
-  - DOMAIN  -SUFFIX,iad  -03.braze.com
-  - DOMAIN  -SUFFIX,iad  -04.braze.com
-  - DOMAIN  -SUFFIX,iad  -05.braze.com
-  - DOMAIN  -SUFFIX,iad  -06.braze.com
-  - DOMAIN  -SUFFIX,iad  -08.braze.com
+  - DOMAIN-SUFFIX,iad.appboy.com
+  - DOMAIN-SUFFIX,iad-03.appboy.com
+  - DOMAIN-SUFFIX,iad-01.braze.com
+  - DOMAIN-SUFFIX,iad-02.braze.com
+  - DOMAIN-SUFFIX,iad-03.braze.com
+  - DOMAIN-SUFFIX,iad-04.braze.com
+  - DOMAIN-SUFFIX,iad-05.braze.com
+  - DOMAIN-SUFFIX,iad-06.braze.com
+  - DOMAIN-SUFFIX,iad-08.braze.com
 
 # (C)
 # > CCTVVideo
-  - DOMAIN,adstore  -index  -1252524079.file.myqcloud.com
+  - DOMAIN,adstore-index-1252524079.file.myqcloud.com
 # > CNTV
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,mdrecv.app.cntvwb.cn
@@ -183,31 +183,31 @@ payload:
   - DOMAIN,exp.360in.com
 
 # (D)
-  - DOMAIN,webcast  -open.douyin.com
+  - DOMAIN,webcast-open.douyin.com
 # > Douban
-  - AND,((USER  -AGENT,Frodo*), (DOMAIN,119.29.29.29))
+- AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
 
-# (F)  -  -  -  -  -  -  -
-  - DOMAIN,fp  -it.fengkongcloud.com
+# (F)-------
+  - DOMAIN,fp-it.fengkongcloud.com
 # (G)
 # > Google
-  - DOMAIN  -SUFFIX,doubleclick.net
-  - DOMAIN  -SUFFIX,googleadservices.com
-  - DOMAIN  -SUFFIX,googleadsserving.cn
-  - DOMAIN  -SUFFIX,googlesyndication.com
-  - DOMAIN  -SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,googleadsserving.cn
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googletagservices.com
   - DOMAIN,ads.youtube.com
 
 # (H)
   - DOMAIN,adx.halomobi.com
 # > HunanTV
-  - DOMAIN  -SUFFIX,da.mgtv.com
-  - DOMAIN  -SUFFIX,da.hunantv.com
-  - DOMAIN  -SUFFIX,log.hunantv.com
-  - DOMAIN  -SUFFIX,v2.hunantv.com
+  - DOMAIN-SUFFIX,da.mgtv.com
+  - DOMAIN-SUFFIX,da.hunantv.com
+  - DOMAIN-SUFFIX,log.hunantv.com
+  - DOMAIN-SUFFIX,v2.hunantv.com
 # > Hupu
   - DOMAIN,adx.hupu.com
-  - DOMAIN,adx  -api.hupu.com
+  - DOMAIN,adx-api.hupu.com
   - DOMAIN,goblin.hupu.com
 # > happycast
   - DOMAIN,ad.hpplay.cn
@@ -221,9 +221,9 @@ payload:
 # (J)
 # >Jd
   - DOMAIN,xlog.jd.com
-  - DOMAIN,dsp  -x.jd.com
+  - DOMAIN,dsp-x.jd.com
   - DOMAIN,janapi.jd.com
-  - DOMAIN,im  -x.jd.com
+  - DOMAIN,im-x.jd.com
 # >jxedt
   - DOMAIN,richmanapi.jxedt.com
   - DOMAIN,richmanmain.jxedt.com
@@ -231,8 +231,8 @@ payload:
 
 # (K)
 # > Kingsoft
-  - DOMAIN,ad  -stat.ksosoft.com
-  - DOMAIN,img.auction  -ads.wpscdn.cn
+  - DOMAIN,ad-stat.ksosoft.com
+  - DOMAIN,img.auction-ads.wpscdn.cn
   - DOMAIN,counter.kingsoft.com
   - DOMAIN,counter.ksosoft.com
   - DOMAIN,minfo.wps.cn
@@ -241,17 +241,17 @@ payload:
   - DOMAIN,ws.ksmobile.net
 # > Kuaishou
   - DOMAIN,open.e.kuaishou.cn
-  - DOMAIN  -SUFFIX,e.kuaishou.com
-  - DOMAIN,js  -ad.a.yximgs.com
+  - DOMAIN-SUFFIX,e.kuaishou.com
+  - DOMAIN,js-ad.a.yximgs.com
 # > Kugou
-  - DOMAIN  -SUFFIX,d.kugou.com
-  - DOMAIN  -SUFFIX,mobilelog.kugou.com
+  - DOMAIN-SUFFIX,d.kugou.com
+  - DOMAIN-SUFFIX,mobilelog.kugou.com
 
 # (L)
 # > Le
-  - DOMAIN  -SUFFIX,webp2p.letv.com
+  - DOMAIN-SUFFIX,webp2p.letv.com
   - DOMAIN,ark.letv.com
-  - DOMAIN,emma  -414870e223.huodonghezi.com
+  - DOMAIN,emma-414870e223.huodonghezi.com
   - DOMAIN,g3.letv.com
   - DOMAIN,n.mark.letv.com
 # > LinkWiFi
@@ -261,10 +261,10 @@ payload:
 
 # (M)
 # > Microsoft
-  - DOMAIN  -SUFFIX,ads.msn.com
-  - DOMAIN  -SUFFIX,ads1.msn.com
-  - DOMAIN  -SUFFIX,ads2.msn.com
-  - DOMAIN  -SUFFIX,rads.msn.com
+  - DOMAIN-SUFFIX,ads.msn.com
+  - DOMAIN-SUFFIX,ads1.msn.com
+  - DOMAIN-SUFFIX,ads2.msn.com
+  - DOMAIN-SUFFIX,rads.msn.com
   - DOMAIN,mobileads.msn.com
 # > MojiWeather
   - DOMAIN,ad.api.moji.com
@@ -272,24 +272,24 @@ payload:
   - DOMAIN,ads.mojicdn.com
   - DOMAIN,v1.log.moji.com
 # > Migu
-  - DOMAIN  -SUFFIX,log  -report.rtc.volcvideo.com
-  - DOMAIN  -SUFFIX,p66  -ad.adkwai.com
-  - DOMAIN  -SUFFIX,mssdk.volces.com
-  - DOMAIN  -SUFFIX,ios.bugly.qq.com
-  - DOMAIN  -SUFFIX,hound.migu.cn
-  - DOMAIN  -SUFFIX,adashxgc.ut.taobao.com
-  - DOMAIN  -SUFFIX,baichuan  -sdk.alicdn.com
-  - DOMAIN  -SUFFIX,clog.miguvideo.com
-  - DOMAIN  -SUFFIX,ggv.miguvideo.com 
-  - DOMAIN  -SUFFIX,adashbc.ut.taobao.com
-  - DOMAIN  -SUFFIX,ggc.miguvideo.com 
-  - DOMAIN  -SUFFIX,uem.migu.cn
-  - DOMAIN  -SUFFIX,ggic10.miguvideo.com
+  - DOMAIN-SUFFIX,log-report.rtc.volcvideo.com
+  - DOMAIN-SUFFIX,p66-ad.adkwai.com
+  - DOMAIN-SUFFIX,mssdk.volces.com
+  - DOMAIN-SUFFIX,ios.bugly.qq.com
+  - DOMAIN-SUFFIX,hound.migu.cn
+  - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+  - DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+  - DOMAIN-SUFFIX,clog.miguvideo.com
+  - DOMAIN-SUFFIX,ggv.miguvideo.com 
+  - DOMAIN-SUFFIX,adashbc.ut.taobao.com
+  - DOMAIN-SUFFIX,ggc.miguvideo.com 
+  - DOMAIN-SUFFIX,uem.migu.cn
+  - DOMAIN-SUFFIX,ggic10.miguvideo.com
 
 # (N)
 # > NetEase
-  - DOMAIN  -SUFFIX,dsp.youdao.com
-  - DOMAIN  -SUFFIX,union.youdao.com
+  - DOMAIN-SUFFIX,dsp.youdao.com
+  - DOMAIN-SUFFIX,union.youdao.com
   - DOMAIN,ad.bn.netease.com
   - DOMAIN,ad.yixin.im
   - DOMAIN,admusicpic.music.126.net
@@ -302,13 +302,13 @@ payload:
   - DOMAIN,impservice.youdao.com
   - DOMAIN,n.3g.163.com
   - DOMAIN,nex.163.com
-  - DOMAIN,yt  -adp.nosdn.127.net
-  - DOMAIN,yt  -adp.ws.126.net
+  - DOMAIN,yt-adp.nosdn.127.net
+  - DOMAIN,yt-adp.ws.126.net
 
 # (P)
 # > PDD
   - DOMAIN,xg.pinduoduo.com
-  - DOMAIN,t  -dsp.pinduoduo.com
+  - DOMAIN,t-dsp.pinduoduo.com
 # > PPTV
   - DOMAIN,ads.aplus.pptv.com
   - DOMAIN,ads.aplusapi.pptv.com
@@ -321,32 +321,32 @@ payload:
   - DOMAIN,adnew.wifi8.com
   - DOMAIN,adfile.wifi8.com
 # > PConline
-  - DOMAIN,ad  -analysis.pconline.com.cn
+  - DOMAIN,ad-analysis.pconline.com.cn
   - DOMAIN,iad0ssl.pcauto.com.cn
   - DOMAIN,iad0ssl.pconline.com.cn
   - DOMAIN,imgad0.pcauto.com.cn
   - DOMAIN,imgad0.pconline.com.cn
   - DOMAIN,ivy.pchouse.com.cn
 # > Phoenix New Media
-  - DOMAIN  -SUFFIX,deliver.ifeng.com
+  - DOMAIN-SUFFIX,deliver.ifeng.com
   - DOMAIN,api.newad.ifeng.com
   - DOMAIN,ifengad.3g.ifeng.com
 
 # (Q)
-  - DOMAIN,a6  -remad.qm989.com
+  - DOMAIN,a6-remad.qm989.com
 # > QingTing
   - DOMAIN,ad.qingting.fm
   - DOMAIN,adlaunch.qingting.fm
-  - DOMAIN,ad  -cdn.qingting.fm
+  - DOMAIN,ad-cdn.qingting.fm
 # > OPPO
-  - DOMAIN  -SUFFIX,ads.oppomobile.com
+  - DOMAIN-SUFFIX,ads.oppomobile.com
   - DOMAIN,adsfs.oppomobile.com
 
 # (S)
-  - DOMAIN,sdk  -log.partner.sm.cn
+  - DOMAIN,sdk-log.partner.sm.cn
 # > Sina
-  - DOMAIN  -SUFFIX,alitui.weibo.com
-  - DOMAIN  -SUFFIX,beacon.sina.com.cn
+  - DOMAIN-SUFFIX,alitui.weibo.com
+  - DOMAIN-SUFFIX,beacon.sina.com.cn
   - DOMAIN,adimg.uve.weibo.com
   - DOMAIN,adimg.vue.weibo.com
   - DOMAIN,u1.img.mobile.sina.cn
@@ -354,9 +354,9 @@ payload:
   - DOMAIN,saxs.sina.com.cn
   - DOMAIN,saxn.sina.com.cn
 # > SOHU
-  - DOMAIN  -SUFFIX,ad.sohu.com
-  - DOMAIN  -SUFFIX,ads.sohu.com
-  - DOMAIN  -SUFFIX,aty.sohu.com
+  - DOMAIN-SUFFIX,ad.sohu.com
+  - DOMAIN-SUFFIX,ads.sohu.com
+  - DOMAIN-SUFFIX,aty.sohu.com
   - DOMAIN,imp.optaim.com
   - DOMAIN,v2.reachmax.cn
   - DOMAIN,hui.sohu.com
@@ -364,13 +364,13 @@ payload:
   - DOMAIN,ads.snapchat.com
   - DOMAIN,adsapi.snapchat.com
 # > Sougou
-  - DOMAIN  -SUFFIX,sougou.com
+  - DOMAIN-SUFFIX,sougou.com
 
 # (T)
-#   -  -  - (Tencent)   -  -  -
-  - DOMAIN  -SUFFIX,e.qq.com
-  - DOMAIN  -SUFFIX,gdt.qq.com
-  - DOMAIN  -SUFFIX,l.qq.com
+# --- (Tencent) ---
+  - DOMAIN-SUFFIX,e.qq.com
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,l.qq.com
   - DOMAIN,adsmind.apdcdn.tc.qq.com
   - DOMAIN,adsmind.gdtimg.com
   - DOMAIN,adsmind.tc.qq.com
@@ -381,17 +381,17 @@ payload:
   - DOMAIN,wa.gtimg.com
   - DOMAIN,wxsnsdy.wxs.qq.com
   - DOMAIN,wxsnsdythumb.wxs.qq.com
-  - DOMAIN  -SUFFIX,vi.bls.mdt.qq.com
-  - DOMAIN  -SUFFIX,gvc.vod.tencent  -cloud.com
-  - DOMAIN  -SUFFIX,aedns.weixin.qq.com
-  - DOMAIN  -SUFFIX,adsmind.apdcdn.tc.qq.com
-  - DOMAIN  -SUFFIX,adsmind.tc.qq.com
-  - DOMAIN  -SUFFIX,gdtimg.com
-  - DOMAIN  -SUFFIX,ugdtimg.com
-  - DOMAIN  -SUFFIX,wxsnsdy.wxs.qq.com
-  - DOMAIN  -SUFFIX,wxsnsdythumb.wxs.qq.com
-  - DOMAIN  -SUFFIX,qidian.qpic.cn
-  - DOMAIN  -SUFFIX,news.l.qq.com
+  - DOMAIN-SUFFIX,vi.bls.mdt.qq.com
+  - DOMAIN-SUFFIX,gvc.vod.tencent-cloud.com
+  - DOMAIN-SUFFIX,aedns.weixin.qq.com
+  - DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
+  - DOMAIN-SUFFIX,adsmind.tc.qq.com
+  - DOMAIN-SUFFIX,gdtimg.com
+  - DOMAIN-SUFFIX,ugdtimg.com
+  - DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+  - DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+  - DOMAIN-SUFFIX,qidian.qpic.cn
+  - DOMAIN-SUFFIX,news.l.qq.com
 # > Tencent Music (TME)
   - DOMAIN,ad.tencentmusic.com
   - DOMAIN,adstats.tencentmusic.com
@@ -404,10 +404,10 @@ payload:
   - DOMAIN,mobilelog.kugou.com
   - DOMAIN,mobilead.kuwo.cn
   - DOMAIN,rich.kuwo.cn
-# (T)  -  -  -  -  -  -
-  - DOMAIN,api  -access.pangolin  -sdk  -toutiao1.com
-  - DOMAIN  -SUFFIX,tanx.com
-  - DOMAIN  -SUFFIX,bestadprof.com
+# (T)------
+  - DOMAIN,api-access.pangolin-sdk-toutiao1.com
+  - DOMAIN-SUFFIX,tanx.com
+  - DOMAIN-SUFFIX,bestadprof.com
 # > TongHuaShun
   - DOMAIN,adm.10jqka.com.cn
   - DOMAIN,stat.10jqka.com.cn
@@ -419,13 +419,13 @@ payload:
   - DOMAIN,adsp.xunlei.com
   - DOMAIN,etl.xlmc.sandai.net
 
-# (U)  -  -  -  -  -  -
+# (U)------
 # > UC
   - DOMAIN,partner.uc.cn
 # > Ubi
-  - DOMAIN  -SUFFIX,ubixioe.com
+  - DOMAIN-SUFFIX,ubixioe.com
 # > Unicom
-  - DOMAIN  -SUFFIX,ad.10010.com
+  - DOMAIN-SUFFIX,ad.10010.com
 # > Umeng
   - DOMAIN,utoken.umeng.com
   - DOMAIN,msg.umengcloud.com
@@ -436,29 +436,29 @@ payload:
 
 # (V)
 # > VariFlight
-  - DOMAIN,adv  -adlog.variflight.com
-  - DOMAIN,adv  -ads.variflight.com
-  - DOMAIN,app  -ad.variflight.com
+  - DOMAIN,adv-adlog.variflight.com
+  - DOMAIN,adv-ads.variflight.com
+  - DOMAIN,app-ad.variflight.com
 # > vivo
   - DOMAIN,adlog.vivo.com.cn
   - DOMAIN,adreq.vivo.com.cn
-  - DOMAIN,ads  -marketing  -vivofs.vivo.com.cn
+  - DOMAIN,ads-marketing-vivofs.vivo.com.cn
   - DOMAIN,adsdk.vivo.com.cn
   - DOMAIN,adsstatic.vivo.com.cn
   - DOMAIN,adxlog.vivo.com.cn
   - DOMAIN,vcardsdkservice.vivo.com.cn
-  - DOMAIN  -KEYWORD,stsdk.vivo.com.cn
-  - DOMAIN  -KEYWORD,stsdk.vivoglobal.com
+  - DOMAIN-KEYWORD,stsdk.vivo.com.cn
+  - DOMAIN-KEYWORD,stsdk.vivoglobal.com
 # > Viber
   - DOMAIN,ads.viber.com
-  - DOMAIN,ads  -d.viber.com
+  - DOMAIN,ads-d.viber.com
   - DOMAIN,ads.aws.viber.com
 
-# (W)  -  -  -  -  -  -
-  - DOMAIN,cdn  -new  -ad.wtzw.com
+# (W)------
+  - DOMAIN,cdn-new-ad.wtzw.com
 # (X)
-#   -(xiaotucc)
-  - DOMAIN  -SUFFIX,wxa.wxs.qq.com
+# -(xiaotucc)
+  - DOMAIN-SUFFIX,wxa.wxs.qq.com
   - DOMAIN,wxsmw.wxs.qq.com
   - DOMAIN,wximg.wxs.qq.com
   - DOMAIN,umini.shujupie.com
@@ -473,58 +473,58 @@ payload:
   - DOMAIN,adbehavior.ximalaya.com
   - DOMAIN,adsebs.ximalaya.com
 # > Xiaohongshu
-  - DOMAIN,ads  -img  -qc.xhscdn.com
-  - DOMAIN,ads  -video  -al.xhscdn.com
-  - DOMAIN,ads  -video  -qc.xhscdn.com
-  - DOMAIN,t  -ads.xiaohongshu.com
+  - DOMAIN,ads-img-qc.xhscdn.com
+  - DOMAIN,ads-video-al.xhscdn.com
+  - DOMAIN,ads-video-qc.xhscdn.com
+  - DOMAIN,t-ads.xiaohongshu.com
 
 # (Y)
 # > Yunshanfu
-  - DOMAIN  -SUFFIX,ads.95516.com
+  - DOMAIN-SUFFIX,ads.95516.com
 # > Yahoo
-  - DOMAIN  -SUFFIX,adserver.yahoo.com
-  - DOMAIN  -SUFFIX,adspecs.yahoo.com
-  - DOMAIN  -SUFFIX,advertising.yahoo.com
-  - DOMAIN  -SUFFIX,gemini.yahoo.com
+  - DOMAIN-SUFFIX,adserver.yahoo.com
+  - DOMAIN-SUFFIX,adspecs.yahoo.com
+  - DOMAIN-SUFFIX,advertising.yahoo.com
+  - DOMAIN-SUFFIX,gemini.yahoo.com
   - DOMAIN,admarketing.yahoo.net
   - DOMAIN,ads.auctions.yahoo.com
   - DOMAIN,ads.finance.yahoo.com
   - DOMAIN,ads.yahoo.com
   - DOMAIN,ads.yahoo.de
 # > YY
-  - DOMAIN  -SUFFIX,dataaq.yy.com
+  - DOMAIN-SUFFIX,dataaq.yy.com
 
 # (Z)
 # > Zhihu
-  - USER  -AGENT,AVOS*
+- USER-AGENT,AVOS*
   - DOMAIN,appcloud2.in.zhihu.com
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
   - DOMAIN,118.89.204.198
-  - IP  -CIDR,118.89.204.198/32,no  -resolve
-  - IP  -CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no  -resolve
+- IP-CIDR,118.89.204.198/32,no-resolve
+- IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 # > ZOL
   - DOMAIN,apppv.zol.com.cn
   - DOMAIN,pvnapp.zol.com.cn
 
 # (0~9)
 # > 51wnl
-  - DOMAIN,ad.51wnl  -cq.com
-  - DOMAIN,adextra.51wnl  -cq.com
-  - DOMAIN,log.51wnl  -cq.com
-  - DOMAIN,r.51wnl  -cq.com
-  - 
+  - DOMAIN,ad.51wnl-cq.com
+  - DOMAIN,adextra.51wnl-cq.com
+  - DOMAIN,log.51wnl-cq.com
+  - DOMAIN,r.51wnl-cq.com
+- 
 # (Other)
 # >
   - DOMAIN,sdc3.10086.cn
-  - DOMAIN,ttd4m7  -launches.appsflyersdk.com 
-  - DOMAIN,gcp  -bidders  -us  -east4.dataseat.com
-  - DOMAIN,vg  -ali  -ad  -track  -sdk.mtgglobals.com
-  - DOMAIN  -SUFFIX,impression.appsflyer.com
-  - DOMAIN  -SUFFIX,v56  -mobile  -live  -config.pool.miniclippt.com
+  - DOMAIN,ttd4m7-launches.appsflyersdk.com 
+  - DOMAIN,gcp-bidders-us-east4.dataseat.com
+  - DOMAIN,vg-ali-ad-track-sdk.mtgglobals.com
+  - DOMAIN-SUFFIX,impression.appsflyer.com
+  - DOMAIN-SUFFIX,v56-mobile-live-config.pool.miniclippt.com
   - DOMAIN,content.inhousedsp.com
-  - DOMAIN  -SUFFIX,config.monetization  -sdk.chartboost.com
-  - DOMAIN,prod  -mediate  -events.applovin.com
+  - DOMAIN-SUFFIX,config.monetization-sdk.chartboost.com
+  - DOMAIN,prod-mediate-events.applovin.com
   - DOMAIN,rt.applovin.com
   - DOMAIN,e.axon.ai
   - DOMAIN,logs.ads.vungle.com
