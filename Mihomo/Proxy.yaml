@@ -16,6 +16,8 @@ payload:
   - DOMAIN,a771.dscq.akamai.net
 # > Apple
   - DOMAIN,testflight.apple.com
+# > Bbibe
+  - DOMAIN,bit.bbibe.com
 # > Microsoft
   - DOMAIN-SUFFIX,Bing.com
 # > Crypto
