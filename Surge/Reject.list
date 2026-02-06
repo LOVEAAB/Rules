@@ -493,7 +493,7 @@ DOMAIN,msgacs.m.taobao.com
 DOMAIN,vpp-license-proxy.aliyuncs.com
 DOMAIN,cloud-config-service.rtc.aliyuncs.com
 DOMAIN,alilang-intranet.alibaba-inc.com
-DOMAIN,tls-goofish.dingtalk.com
+#DOMAIN,tls-goofish.dingtalk.com
 DOMAIN,alivc-aio.cn-hangzhou.dualstack.log.aliyuncs.com
 DOMAIN,px.ucweb.com
 DOMAIN,ads.production-public.tubi.io
